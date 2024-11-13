@@ -1,0 +1,7 @@
+{
+    "openVPNAuthFile": "protonvpn_creds.txt",
+    "openVPNConfigFilesDirectory": "openvpn_confs",
+    "ioc": "tmpukmfp.php",
+    "startIP": "1.1.1.1",
+    "endIP": "1.1.1.254"
+}
