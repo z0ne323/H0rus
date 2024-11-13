@@ -2,7 +2,7 @@
 
 *H0rus knows everything, H0rus sees everything*
 
-
+![eye-of-horus-6078479_960_720](https://github.com/user-attachments/assets/308bd16d-64d3-4029-8385-4a2030f1babb)
 
 *H0rus is a tool for cybersecurity researchers, penetration testers, or anyone who needs to scan a range of IPs for suspicious URLs and IOCs.*
 
